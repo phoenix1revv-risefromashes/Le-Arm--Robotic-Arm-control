@@ -1,6 +1,3 @@
-# Le-Arm--Robotic-Arm-control
-Custom Arduino control of LE-Arm robotic arm enabling more flexible and programmable movement beyond the default app
-
 # LE-Arm Robotic Arm Control (Arduino)
 
 This project started with controlling the LE-Arm robotic arm using its default company app, which felt too restrictive in terms of movement and flexibility.
@@ -52,7 +49,9 @@ This sequence uses gradual servo transitions to reduce jerky movement and improv
 
 ## Demo
 
-[Watch demo here](PASTE_YOUR_VIDEO_LINK_HERE)
+Short demo showing robotic arm control, movement sequencing, and tilt-based pouring behavior.
+
+[Watch demo here](https://sofiauniversity-my.sharepoint.com/:v:/g/personal/santosh_bogati_sofia_edu/IQCmalUl8AzDQaL0s3DU5xB8AdFR2FUZURbhL_xJovdM6eY)
 
 ---
 
