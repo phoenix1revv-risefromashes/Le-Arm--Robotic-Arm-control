@@ -13,6 +13,16 @@ The goal of this project was to improve movement flexibility, control precision,
 This project demonstrates how software-level control directly impacts the behavior of a multi-joint physical system.
 
 ---
+## System Setup
+
+Physical setup of the LE-Arm robotic system connected to Arduino for custom control, and perfoming the demo-task.
+
+![LE-Arm Setup](images/le-arm-programming.png)
+
+*LE-Arm robotic system connected to Arduino during testing and calibration*
+
+---
+
 
 ## Key Work
 
@@ -63,15 +73,7 @@ Short demo showing robotic arm control, movement sequencing, and tilt-based pour
 
 ---
 
-## System Setup
 
-Physical setup of the LE-Arm robotic system connected to Arduino for custom control.
-
-![LE-Arm Setup](images/le-arm-programming.png)
-
-*LE-Arm robotic system connected to Arduino during testing and calibration*
-
----
 
 
 ## Additional Learning & Coursework
