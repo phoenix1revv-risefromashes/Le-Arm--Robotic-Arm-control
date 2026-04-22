@@ -67,7 +67,7 @@ Short demo showing robotic arm control, movement sequencing, and tilt-based pour
 
 Physical setup of the LE-Arm robotic system connected to Arduino for custom control.
 
-![LE-Arm Setup](images/Le-arm programming.png)
+![LE-Arm Setup](images/le-arm-programming.png)
 
 *LE-Arm robotic system connected to Arduino during testing and calibration*
 
