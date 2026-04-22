@@ -73,10 +73,26 @@ Physical setup of the LE-Arm robotic system connected to Arduino for custom cont
 
 ---
 
+
+## Additional Learning & Coursework
+
+Alongside this project, I completed a structured set of hands-on exercises and experiments covering Arduino programming, robotics control, and system behavior.
+
+This included:
+- basic to intermediate Arduino programming  
+- servo motor control and calibration  
+- multi-joint movement experiments  
+- debugging and hardware troubleshooting  
+- iterative testing of robotic behavior  
+
+For reference, I have organized my coursework, notes, and experimental recordings here:
+
+[View full coursework and experiments](https://sofiauniversity-my.sharepoint.com/:f:/g/personal/santosh_bogati_sofia_edu/IgAF_oZXf4HhR7f3WGFfTg0mAcNXg8zfneXSlw9UcmuOXyo)
 ## Notes
 
 This implementation focuses on control logic and movement sequencing.  
 Achieving stable real-world pouring behavior depends on precise calibration, load handling, and hardware constraints.
+
 
 ---
 
