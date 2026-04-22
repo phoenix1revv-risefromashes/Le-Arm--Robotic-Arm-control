@@ -65,11 +65,11 @@ The sequence uses gradual servo transitions to improve stability and reduce abru
 
 ---
 
-## Demo
+## Project video
 
 Short demo showing robotic arm control, movement sequencing, and tilt-based pouring behavior:
 
-[Watch demo here](https://sofiauniversity-my.sharepoint.com/:v:/g/personal/santosh_bogati_sofia_edu/IQCmalUl8AzDQaL0s3DU5xB8AdFR2FUZURbhL_xJovdM6eY)
+[Watch Project video here](https://sofiauniversity-my.sharepoint.com/:v:/g/personal/santosh_bogati_sofia_edu/IQCmalUl8AzDQaL0s3DU5xB8AdFR2FUZURbhL_xJovdM6eY)
 
 ---
 
