@@ -1,6 +1,6 @@
 # LeArm 6-DOF Robotic Arm Controller Retrofit with Arduino
 
-This project explores custom control of the LE-Arm robotic system using Arduino. The original system was controlled through a default company application, which limited flexibility in movement and coordination.
+This project explores custom control of the LE-Arm robotic system using Arduino. The original system was controlled through a default company application and their custom MCU, which limited flexibility in movement and coordination.
 
 To overcome these limitations, I connected the robotic arm to an Arduino microcontroller and implemented custom movement logic, enabling more dynamic and programmable control over joint behavior.
 
