@@ -21,6 +21,12 @@ Physical setup of the LE-Arm robotic system connected to Arduino for custom cont
 
 *LE-Arm robotic system connected to Arduino during testing and calibration*
 
+## Project videos
+
+Please find the demo videos below:
+
+[Watch Project video here](https://sofiauniversity-my.sharepoint.com/:f:/g/personal/santosh_bogati_sofia_edu/IgAzhSXGKF8NSa1iqdVslhJ1AbBn3noOVDFKhdEYMsk7beE?e=tesgmh)
+
 ---
 
 
@@ -69,7 +75,7 @@ The sequence uses gradual servo transitions to improve stability and reduce abru
 
 Short demo showing robotic arm control, movement sequencing, and tilt-based pouring behavior:
 
-[Watch Project video here](https://sofiauniversity-my.sharepoint.com/:v:/g/personal/santosh_bogati_sofia_edu/IQCmalUl8AzDQaL0s3DU5xB8AdFR2FUZURbhL_xJovdM6eY)
+[Watch Project video here](https://sofiauniversity-my.sharepoint.com/:f:/g/personal/santosh_bogati_sofia_edu/IgAzhSXGKF8NSa1iqdVslhJ1AbBn3noOVDFKhdEYMsk7beE?e=tesgmh)
 
 ---
 
